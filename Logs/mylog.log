@@ -1,0 +1,16 @@
+[INFO ] 2023-01-29 21:19:29.319 [main] MyStoreV1 - url opened
+[INFO ] 2023-01-29 21:19:29.529 [main] MyStoreV1 - 
+***************TestCase Search Product started*****************
+[INFO ] 2023-01-29 21:19:41.890 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2023-01-29 21:19:49.300 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2023-01-29 21:19:58.883 [main] MyStoreV1 - Product link clicked
+[INFO ] 2023-01-29 21:19:59.026 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2023-01-29 21:20:02.130 [main] MyStoreV1 - clicked on search button
+[INFO ] 2023-03-23 20:10:20.811 [main] MyStoreV1 - url opened
+[INFO ] 2023-03-23 20:14:01.833 [main] MyStoreV1 - url opened
+[INFO ] 2023-03-23 20:14:22.216 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-03-23 20:16:57.140 [main] MyStoreV1 - url opened
+[INFO ] 2023-03-23 20:17:04.710 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-03-23 20:24:13.113 [main] MyStoreV1 - url opened
+[INFO ] 2023-03-23 20:24:16.808 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-03-23 20:24:29.823 [main] MyStoreV1 - VerifyLogin - Passed
