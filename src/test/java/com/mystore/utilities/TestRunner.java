@@ -8,10 +8,10 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		features= "src/main/resource/Features/login.feature",
-		
+
 		glue ="com.mystore.pageobject"
-		
-		
+
+
 		)
 
 

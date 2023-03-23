@@ -14,3 +14,9 @@
 [INFO ] 2023-03-23 20:24:13.113 [main] MyStoreV1 - url opened
 [INFO ] 2023-03-23 20:24:16.808 [main] MyStoreV1 - Clicked on sign in link
 [INFO ] 2023-03-23 20:24:29.823 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2023-03-23 20:56:56.576 [main] MyStoreV1 - url opened
+[INFO ] 2023-03-23 20:57:02.738 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-03-23 20:57:03.563 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-03-23 20:57:03.725 [main] MyStoreV1 - Entered password
+[INFO ] 2023-03-23 20:57:32.977 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-03-23 20:57:33.075 [main] MyStoreV1 - VerifyLogin - Passed

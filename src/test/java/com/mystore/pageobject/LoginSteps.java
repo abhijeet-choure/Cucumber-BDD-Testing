@@ -32,7 +32,7 @@ public class LoginSteps {
 
 	public static WebDriver driver;
 	public static Logger logger;
-	@Given("user is onn login page")
+	@Given("user is on login page")
 	public void user_is_onn_login_page() {
 
 		//launch browser
